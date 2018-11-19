@@ -1,0 +1,37 @@
+
+#personName{
+    display:inline-block;
+    width:20%;
+    text-align: center;
+    font-weight: bold;
+    font-size: 53px;
+    vertical-align: top;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+#employSection{
+    display:inline-block;
+    width:30%;
+}
+
+#employ-front{
+    display:inline-block;
+    text-align: right;
+}
+
+#employ-end{
+    display:inline-block;
+    text-align: left;
+}
+
+.sectionTitle{
+    border-bottom: 2px solid slategray;
+}
+.contentDetail{
+    margin-left: 20px;
+    margin-right:20px;
+}
+.triangleDirec{
+    color:#10d210;
+}
