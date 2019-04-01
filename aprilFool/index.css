@@ -43,6 +43,12 @@ body {
 .container span:nth-child(14) { --n: 21; }
 .container span:nth-child(14) { --n: 22; }
 .container span:nth-child(14) { --n: 23; }
+.container span:nth-child(14) { --n: 24; }
+.container span:nth-child(14) { --n: 24; }
+.container span:nth-child(14) { --n: 26; }
+.container span:nth-child(14) { --n: 27; }
+.container span:nth-child(14) { --n: 28; }
+.container span:nth-child(14) { --n: 29; }
 
 @keyframes sideSlide {
   15%,
